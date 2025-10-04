@@ -1,11 +1,11 @@
 {
-    "version": "0.0.1",
-    "notes": "First version",
+    "version": "0.0.2",
+    "notes": "Fixed welcome",
     "pub_date": "2025-10-03T12:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURW83YnJjWkNHMTY3Vnp4UUNVb3drUDVMUWI0dm5kYlVacW02MFh0S09ZWS9rYms5VTZrRC9ZU09Yc1FQVVFQRHdRRTJiK2VQTklacktKbHRSM1NpOTcvckZWK1JyNkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NTM3OTkxCWZpbGU6TWFudGVsXzAuMC4xX3g2NC1zZXR1cC5leGUKTVJqU0FXT0crNXVFekl2UGx4WWxlaStvQUQ0ajJhS0JVdFRrTG1zY1pTbVRaSC80SGtNdWNsOFFCanNUT1lzQnNhWHlvV3RzQ052QjJtZVJxeXovREE9PQo=",
-        "url": "https://github.com/arct-dev/mantel-releases/releases/download/v0.0.1/mantel_0.0.1_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURW83YnJjWkNHMTVWVS9oU1Q4TDlWQ2pUYkZnUlpxOGovckxOS09UaHppUmE1Yk82MjF6cnd6OGEzbUpTYzJsSG1XUS9Zck9aYUpGdkQvWktzQ2t4NmFVeDhCR2IrZlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NjAwMTkwCWZpbGU6TWFudGVsXzAuMC4yX3g2NC1zZXR1cC5leGUKVTlQbEdZWnVmWGFNWlBzbTVVUmZtcE52OFBBMlZ1azJqZGcwOFRNWjdMajV2bWRvWG9ZWTJjRWJMZ3g3bUxDV1IyVXZKUmRmVE5WbnVxRzRGWW9CQlE9PQo=",
+        "url": "https://github.com/arct-dev/mantel-releases/releases/download/v0.0.2/mantel_0.0.2_x64-setup.exe"
         }
     }
 }
